@@ -1,5 +1,7 @@
 # This page records the AMSS Topology Seminar in Spring Semester 2021
 
+（return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
+
 ### normally 9:30am-11:30am every Friday 
 
 
